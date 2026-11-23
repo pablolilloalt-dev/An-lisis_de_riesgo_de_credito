@@ -1,0 +1,1 @@
+Coloca aqui cs-training.csv (Kaggle: Give Me Some Credit). No se incluye por los terminos de la competencia.
